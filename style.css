@@ -1,0 +1,141 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: "Uber Move Text";
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+/* NAVIGATION MENU */
+.navbar {
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+}
+
+.navbar-logo {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+    align-items: center;
+}
+
+#logo {
+    font-size: 30px;
+    font-weight: 600;
+    color: white;
+    margin-right: 10px;
+    margin-left: 100px;
+}
+
+#second-logo {
+    font-size: 30px;
+    color: white;
+}
+
+.navbar-menu {
+    display: flex;
+    color: white;
+    font-size: 18px;
+    margin-right: 100px;
+}
+
+.nav-menu {
+    margin-left: 100px;
+}
+
+.nav-menu:hover {
+    color: cornflowerblue;
+    cursor: pointer;
+}
+
+#logo:hover {
+    cursor: pointer;
+}
+
+#second-logo {
+    cursor: pointer;
+}
+
+#logo a {
+    color: white;
+}
+
+#second-logo a {
+    text-decoration: none;
+    color: white;
+}
+/* second menu */
+.update-news{
+    height: 50px;
+    padding-top: 90px;
+    background-color:#F6F6F6;   
+}
+.left-menu-news{
+    display: flex;
+    margin-left: 90px;
+    font-size: 20px;
+    
+}
+#latest{
+    font-weight: bold;
+}
+
+.right-menu-news{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 75px;
+    font-size: 20px;
+    margin-top: -21px;
+}
+
+.right-menu-news:hover{
+    cursor: pointer;
+    color: rgb(206, 206, 206);
+}
+.left-menu-news:hover{
+    cursor: pointer;
+}
+
+/* content */
+.text-content{
+    position: relative;
+    z-index: 1;
+    margin-top: -1000px;
+    margin-left: 200px;
+    color: white;
+    /* width: 600px; */
+}
+.text-1{
+    font-size: 35px;
+}
+.text-2{
+    font-size: 140px;
+    font-weight: 700;
+}
+.text-3,.text-4{
+    font-size: 24px;
+    width: 900px;
+    margin-top: 40px;
+}
+.watch-video{
+    margin-top: 64px;
+    width: 150px;
+    height: 60px;
+    font-size: 16px;
+    border: none;
+    font-weight: 700;
+    transition: 1s;
+    color: black;
+
+}
+.watch-video:hover{
+    cursor: pointer;
+    border-radius: 10px;
+    background-color: #F6F6F6;
+    transition: 1s;
+}
