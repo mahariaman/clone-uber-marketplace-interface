@@ -31,7 +31,6 @@ li {
     align-items: center;
 
 }
-
 #logo {
     font-size: 30px;
     font-weight: 600;
@@ -80,8 +79,11 @@ li {
 
 .dropdown-content a:hover {
     background-color: #ddd;
+    
 }
-
+.navbar-menu a:hover{
+    color: cornflowerblue;
+}
 .dropdown:hover .dropdown-content {
     display: block;
 }
