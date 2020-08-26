@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Group_1502" data-name="Group 1502" viewBox="0 0 282.982 282.98">
+    <defs>
+        <style>
+            .cls-1{fill:#276ef1}.cls-2{fill:#9cc0ff}.cls-3{fill:#fff}
+        </style>
+    </defs>
+    <ellipse id="Ellipse_154" cx="141.491" cy="141.491" class="cls-1" data-name="Ellipse 154" rx="141.491" ry="141.491"/>
+    <g id="Group_1501" data-name="Group 1501" transform="translate(66.673 66.673)">
+        <g id="Group_1495" data-name="Group 1495" transform="translate(28.791)">
+            <g id="Group_1494" data-name="Group 1494">
+                <g id="Group_1493" data-name="Group 1493">
+                    <path id="Path_2413" d="M221.645 84.038v111.847l-29.359-34.094h-77.848a13.641 13.641 0 0 1-13.638-13.637V84.038A13.641 13.641 0 0 1 114.438 70.4h93.57a13.7 13.7 0 0 1 13.637 13.638z" class="cls-2" data-name="Path 2413" transform="translate(-100.8 -70.4)"/>
+                </g>
+            </g>
+        </g>
+        <g id="Group_1498" data-name="Group 1498" transform="translate(0 47.353)">
+            <g id="Group_1497" data-name="Group 1497">
+                <g id="Group_1496" data-name="Group 1496">
+                    <path id="Path_2414" d="M190.677 134.322V181.2a13.641 13.641 0 0 1-13.638 13.638h-78.8L70.4 222.588v-88.55A13.641 13.641 0 0 1 84.038 120.4h92.717a14.005 14.005 0 0 1 13.922 13.922z" data-name="Path 2414" transform="translate(-70.4 -120.4)"/>
+                </g>
+            </g>
+        </g>
+        <path id="Path_2415" d="M192.286 134.322v30.116h-74.439a16.976 16.976 0 0 1-17.047-17.047V120.4h77.564a14.006 14.006 0 0 1 13.922 13.922z" class="cls-3" data-name="Path 2415" transform="translate(-72.009 -73.047)"/>
+        <g id="Group_1500" data-name="Group 1500" transform="translate(54.645 64.495)">
+            <g id="Group_1499" data-name="Group 1499">
+                <ellipse id="Ellipse_155" cx="5.019" cy="4.925" data-name="Ellipse 155" rx="5.019" ry="4.925" transform="translate(29.832)"/>
+                <ellipse id="Ellipse_156" cx="5.019" cy="4.925" data-name="Ellipse 156" rx="5.019" ry="4.925" transform="translate(14.869)"/>
+                <ellipse id="Ellipse_157" cx="5.019" cy="4.925" data-name="Ellipse 157" rx="5.019" ry="4.925"/>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Group_1489" data-name="Group 1489" viewBox="0 0 282.982 282.98">
+    <defs>
+        <style>
+            .cls-1{fill:#276ef1}.cls-2{fill:#9cc0ff}.cls-3{fill:#fff}.cls-4{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:7.644px}
+        </style>
+    </defs>
+    <ellipse id="Ellipse_142" cx="141.491" cy="141.491" class="cls-1" data-name="Ellipse 142" rx="141.491" ry="141.491"/>
+    <g id="Group_1488" data-name="Group 1488" transform="translate(51.615 63.169)">
+        <g id="Group_1486" data-name="Group 1486">
+            <path id="Path_2401" d="M97.97 221.449l-42.9-74.344a3.932 3.932 0 0 1 0-4.072l42.9-74.344a4.133 4.133 0 0 1 3.5-1.989h85.8a4.133 4.133 0 0 1 3.5 1.989l42.9 74.344a3.932 3.932 0 0 1 0 4.072l-42.9 74.344a4.133 4.133 0 0 1-3.5 1.989h-85.8a4.133 4.133 0 0 1-3.5-1.989z" class="cls-2" data-name="Path 2401" transform="translate(-54.5 -66.7)"/>
+            <path id="Path_2402" d="M109.494 208.054L73.6 145.927 109.494 83.8h71.787l35.894 62.127-35.894 62.127z" data-name="Path 2402" transform="translate(-55.511 -67.605)"/>
+        </g>
+        <g id="Group_1487" data-name="Group 1487" transform="translate(45.554 34.473)">
+            <path id="Path_2403" d="M135.1 126.587l13.638-23.487 13.543 23.487z" class="cls-3" data-name="Path 2403" transform="translate(-104.32 -103.1)"/>
+            <path id="Path_2404" d="M116.143 156.987L102.6 133.5h27.086z" class="cls-3" data-name="Path 2404" transform="translate(-102.6 -104.709)"/>
+            <path id="Line_37" d="M0 0v68.851" class="cls-4" data-name="Line 37" transform="translate(44.322 14.016)"/>
+            <path id="Path_2405" d="M117.6 141.3l5.019 2.841a50.4 50.4 0 0 1 25.192 43.565v.189" class="cls-4" data-name="Path 2405" transform="translate(-103.394 -105.122)"/>
+            <path id="Path_2406" d="M181.238 156.987l13.543-23.487H167.6z" class="cls-3" data-name="Path 2406" transform="translate(-106.041 -104.709)"/>
+            <path id="Path_2407" d="M179.611 141.3l-5.019 2.841a50.4 50.4 0 0 0-25.192 43.565v.189" class="cls-4" data-name="Path 2407" transform="translate(-105.078 -105.122)"/>
+        </g>
+    </g>
+</svg>
